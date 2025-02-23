@@ -812,6 +812,8 @@ main {
 .project-description {
   color: var(--light-gray);
   font-size: var(--fs-8);
+  margin-top: 5px;
+  margin-left: 10px
 }
 
 .project-category {
